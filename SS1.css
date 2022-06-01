@@ -1,0 +1,16 @@
+p#DAta {
+    color: rgba(21, 206, 123, 0.874);
+}
+
+body {
+    background-image: url("C:\Wallpaper\155444.png");
+    background-repeat: no-repeat;
+    background-image: width 30px;
+    background-position: center 100px;
+    border: 3px crimson;
+    background-color: beige;
+    border-style: dotted;
+    padding: 30px;
+    margin: 10px;
+    /* box-sizing: border-box;Fixes box */
+}
